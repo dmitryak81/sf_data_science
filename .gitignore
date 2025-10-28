@@ -207,6 +207,6 @@ marimo/_lsp/
 __marimo__/
 test.py
 .DS_Store
-data
+/data
 edu
 pick-diagram-helper.png
