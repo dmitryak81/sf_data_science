@@ -22,7 +22,7 @@
 [Данные](data/dst-3.0_16_1_hh_database.csv) представлены в формате CSV 
 
 Data columns (total 12 columns):
-||#||Column||Count||Non-Null||
+|#|Column|Count|Non-Null|
 | 0 |  Пол, возраст                    | 44744 |non-null | 
 | 1 |  ЗП                              | 44744 |non-null | 
 | 2 |  Ищет работу на должность:       | 44744 |non-null | 
