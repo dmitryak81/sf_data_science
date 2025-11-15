@@ -22,20 +22,19 @@
 [Данные](data/dst-3.0_16_1_hh_database.csv) представлены в формате CSV 
 
 Data columns (total 12 columns):
- #   Column                           Non-Null Count  Dtype 
----  ------                           --------------  ----- 
- 0   Пол, возраст                     44744 non-null  object
- 1   ЗП                               44744 non-null  object
- 2   Ищет работу на должность:        44744 non-null  object
- 3   Город, переезд, командировки     44744 non-null  object
- 4   Занятость                        44744 non-null  object
- 5   График                           44744 non-null  object
- 6   Опыт работы                      44576 non-null  object
- 7   Последнее/нынешнее место работы  44743 non-null  object
- 8   Последняя/нынешняя должность     44742 non-null  object
- 9   Образование и ВУЗ                44744 non-null  object
- 10  Обновление резюме                44744 non-null  object
- 11  Авто                             44744 non-null  object
+||#||Column||Count||Non-Null||
+| 0 |  Пол, возраст                    | 44744 |non-null | 
+| 1 |  ЗП                              | 44744 |non-null | 
+| 2 |  Ищет работу на должность:       | 44744 |non-null | 
+| 3 |  Город, переезд, командировки    | 44744 |non-null | 
+| 4 |  Занятость                       | 44744 |non-null | 
+| 5 |  График                          | 44744 |non-null | 
+| 6 | Опыт работы                      | 44576 |non-null | 
+| 7 |  Последнее/нынешнее место работы | 44743 |non-null | 
+| 8 |  Последняя/нынешняя должность    | 44742 |non-null | 
+| 9 |  Образование и ВУЗ               | 44744 |non-null | 
+| 10 | Обновление резюме               | 44744 |non-null | 
+| 11 | Авто                            | 44744 |non-null | 
 
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
