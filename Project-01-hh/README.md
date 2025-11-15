@@ -19,7 +19,7 @@
 
 
 ### Краткая информация о данных
-[Данные](data/dst-3.0_16_1_hh_database.csv) представлены в формате CSV 
+[Данные](https://drive.usercontent.google.com/download?id=1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn&export=download&authuser=0) представлены в формате CSV 
 
 Data columns (total 12 columns):
 
